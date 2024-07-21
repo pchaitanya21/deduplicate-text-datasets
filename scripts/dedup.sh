@@ -26,7 +26,7 @@ conda activate myenv
 
 # conda create -n pythia python=3.9 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-sudo apt-get install gcc
+# sudo apt-get install gcc
 
 
 pip3 install numpy scipy sentencepiece
